@@ -15,7 +15,7 @@ public class Ex1_OrdemInversa {
         while(count < (vetor.length)) {
             System.out.print(vetor[count] + " ");
             count++;
-            
+            //teste
         }
 
         System.out.print("\nVetor: ");
